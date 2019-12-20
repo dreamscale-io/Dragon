@@ -1,5 +1,5 @@
 # Dragon (Progamming Script Language)
-Dragon, OMG! = JS &lt;3 Python &lt;3 Ruby;
+Dragon/Scriptx, OMG! = JS &lt;3 Python &lt;3 Ruby;
 
 ![Image of Dragon Programming Language Lifecycle](https://github.com/dreamscale-io/Dragon/blob/master/Screen%20Shot%202019-12-20%20at%203.45.28%20PM.png?raw=true)
 

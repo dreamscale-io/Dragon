@@ -5,4 +5,4 @@ Dragon is a high level 5th generation programming level that is based off from E
 
 Everything in dragon is considered an *Object*. 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Dragon Programming Language Lifecycle](https://github.com/dreamscale-io/Dragon/blob/master/Screen%20Shot%202019-12-20%20at%203.45.28%20PM.png?raw=true)

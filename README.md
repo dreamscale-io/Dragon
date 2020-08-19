@@ -46,7 +46,7 @@ program: HelloWorld;
 -- execute our procedure
 :execute: => 
   @print: "World";
-  :quit:;
+  :quit:0;
 ```
 
 One feature of Dragon which is sort of a throw back, is the ability to inline WASM directly into your code. The compiler and interpretter will detect automagically and wrap the specific inlined code blocks with the appropiate data structure using the magic of object autoclassification and context resource injectors. These are more advanced topics which will be covered by future versions of Dragon

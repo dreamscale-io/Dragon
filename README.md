@@ -5,14 +5,7 @@ Welcome to Dragon and DragonScript, a very high level 6th generation programming
 
 Dragon is compiled with a High Level Assembler (HLA). Its sister langauge, DragonScript, is one abstraction layer above Dragon. DragonScript utilizes a JIT (Just In Time) style interpretter; which is similiar to our compiler. The interpretter uses prebuilt binaries that Dragon compiles to.
 
-### Introduction
 
-Dragon, a 6th generation programming language with a primary focus on representing complex data systems and tensor flows.
-
-```math
-P := [F(x)] => ψ|y〉+ ∫∫∫∑∆x + |z^|x + E|〉
-```
-Where P is the problem of function F of x; in such that the position of y and the rates change over the vibration of the x axis creates and equal force of the interrogators complex function z; as x increases, the error represented by E exponentially increases the rate of acceleration of the z axis's movement of encoded data as reprented in this algorthim by the real function of x. Note, that E error is a constant dynamic variable in which the physicial machine system will feedback its timing offset which was created by having to reperform calculations. All computers require error correction of the clock time, for example so that frame buffers line up or a software stop watch is accurate, so that our events when scheduled to happen at x time; in fact due occur at x, not x + t.
 
 ### Archecture 
 
@@ -41,6 +34,10 @@ Within fluid systems such as quantum mechanics, evolutionary systems like genect
 
 Dragon allows us to structure our states at a very high level. This capability allows our programs to mutate and transform data without the overhead and security required to instantiate new functions. This is akin to writing a mathematical algorithm that changes uniquely everytime you try to complete the statement. Alan Turing discovered this with his Halt program test which checks to see if a programs statement will cause the program to halt or loop forever, Turing ended up discovering that the solution is impossible to solve. However, he theorized about using quantum systems to solve such things.
 
+```math
+P := [F(x)] => ψ|y〉+ ∫∫∫∑∆x + |z^|x + E|〉
+```
+Where P is the problem of function F of x; in such that the position of y and the rates change over the vibration of the x axis creates and equal force of the interrogators complex function z; as x increases, the error represented by E exponentially increases the rate of acceleration of the z axis's movement of encoded data as reprented in this algorthim by the real function of x. Note, that E error is a constant dynamic variable in which the physicial machine system will feedback its timing offset which was created by having to reperform calculations. All computers require error correction of the clock time, for example so that frame buffers line up or a software stop watch is accurate, so that our events when scheduled to happen at x time; in fact due occur at x, not x + t.
 
 ### Example
 Now  lets take a look at a simple dragon program that prints some text on the console terminal.

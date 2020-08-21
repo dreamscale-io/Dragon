@@ -1,13 +1,15 @@
 # Dragon (Object Programming Language)
 
+### Introduction
 Dragon and DragonScript are a very high level 6th generation programming language that is inspired from ECMAScript 6 (JavaScript), Python3, and Ruby. Unlike JavaScript where everything is represented as a function. This computer language represents as objects and rules (in the form of functions) which govern how these objects behave in our environment. 
 
 Dragon is compiled with a High Level Assembler (HLA). Its sister langauge, DragonScript, is one abstraction layer above Dragon. DragonScript utilizes a JIT (Just In Time) style interpretter; which is similiar to our compiler. The interpretter uses prebuilt binaries that Dragon compiles to.
 
+### Archecture 
 
 ![Image of Dragon Programming Language Lifecycle](https://github.com/dreamscale-io/Dragon/blob/master/Screen%20Shot%202019-12-20%20at%203.45.28%20PM.png?raw=true)
 
-
+### Theory
 Everything in dragon is considered an *Object*; therefore any function F would be part of object O, and can be represented as 
 
 ```mathematica
@@ -30,6 +32,8 @@ Within fluid systems such as quantum mechanics, evolutionary systems like genect
 
 Dragon allows us to structure our states at a very high level. This capability allows our programs to mutate and transform data without the overhead and security required to instantiate new functions. This is akin to writing a mathematical algorithm that changes uniquely everytime you try to complete the statement. Alan Turing discovered this with his Halt program test which checks to see if a programs statement will cause the program to halt or loop forever, Turing ended up discovering that the solution is impossible to solve. However, he theorized about using quantum systems to solve such things.
 
+
+### Example
 Now  lets take a look at a simple dragon program that prints some text on the console terminal.
 
 ```dragon

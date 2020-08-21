@@ -1,17 +1,18 @@
 # Dragon (Object Programming Language)
 
 ### Preface
-Welcome to Dragon, a 6th generation programming language with a primary focus on representing complex data functions within a quantum positironic processing unit.
-
-```math
-P := [F(x)] => |y〉+ ∫∫∫∑∆x + |z^|x + E|〉
-```
-Where P is the problem of function F of x; in such that the position of y and the rates change over the vibration of the x axis creates and equal force of the interrogators complex function z; as x increases, the error represented by E exponentially increases the rate of acceleration of the z axis's movement of encoded data as reprented in this algorthim by the real function of x.
-
-### Introduction
-Dragon and DragonScript are a very high level 6th generation programming language that is inspired from ECMAScript 6 (JavaScript), Python3, and Ruby. Unlike JavaScript where everything is represented as a function. This computer language represents as objects and rules (in the form of functions) which govern how these objects behave in our environment. 
+Welcome to Dragon and DragonScript, a very high level 6th generation programming language that is inspired from ECMAScript 6 (JavaScript), Python3, and Ruby. Unlike JavaScript where everything is represented as a function. This computer language represents as objects and rules (in the form of functions) which govern how these objects behave in our environment. 
 
 Dragon is compiled with a High Level Assembler (HLA). Its sister langauge, DragonScript, is one abstraction layer above Dragon. DragonScript utilizes a JIT (Just In Time) style interpretter; which is similiar to our compiler. The interpretter uses prebuilt binaries that Dragon compiles to.
+
+### Introduction
+
+Dragon, a 6th generation programming language with a primary focus on representing complex data systems and tensor flows.
+
+```math
+P := [F(x)] => ψ|y〉+ ∫∫∫∑∆x + |z^|x + E|〉
+```
+Where P is the problem of function F of x; in such that the position of y and the rates change over the vibration of the x axis creates and equal force of the interrogators complex function z; as x increases, the error represented by E exponentially increases the rate of acceleration of the z axis's movement of encoded data as reprented in this algorthim by the real function of x. Note, that E error is a constant dynamic variable in which the physicial machine system will feedback its timing offset which was created by having to reperform calculations. All computers require error correction of the clock time, for example so that frame buffers line up or a software stop watch is accurate, so that our events when scheduled to happen at x time; in fact due occur at x, not x + t.
 
 ### Archecture 
 
@@ -50,8 +51,8 @@ program: HelloWorld;
 :uses: Console;
 
 -- allocate memory and pointers
-:assign: :text: @String;
-:assign: :print: => @text;
+:assign: text: String;
+:assign: print: => text;
 
 -- define object
 @print: =>

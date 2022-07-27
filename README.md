@@ -1,5 +1,8 @@
 # Dragon (Object Programming Language)
 
+### Introduction
+The Dragon project is a natural language processing (NLP) toolkit that can be used for a variety of tasks, such as text classification, part-of-speech tagging, and Named Entity Recognition (NER).
+ 
 ### Preface
 Welcome to Dragon and DragonScript, a very high level 6th generation programming language that is inspired from ECMAScript 6 (JavaScript), Python3, and Ruby. Unlike JavaScript where everything is represented as a function. This computer language represents as objects and rules (in the form of functions) which govern how these objects behave in our environment. 
 
